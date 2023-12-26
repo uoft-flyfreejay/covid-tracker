@@ -146,7 +146,7 @@ function MainPage() {
             </table>
         </div>
         <div className="link-container">
-            <Link to="/diagrams">Go to Heatmaps</Link>
+            <Link to="/heatmap">Go to Heatmaps</Link>
         </div>
     </div>
     );
