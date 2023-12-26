@@ -6,7 +6,7 @@ import Heatmap from "./Heatmap";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/covid-tracker">
       <Routes>
         <Route path="/" element={<MainPage />} />
         <Route path="/heatmap" element={<Heatmap />} />
