@@ -116,3 +116,16 @@ h1 {
 .stat-table th {
   background-color: #f2f2f2;
 }
+
+/* Heatmap.css */
+.heatmap-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.heatmap-container h1 {
+  font-size: 2em;
+}
